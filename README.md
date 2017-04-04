@@ -2,7 +2,7 @@
 Collins Mutuma
 
 # Description
-It is a website about places you have been hypothetically.
+Its a website which teaches about javascript
 
 # Github-link
 https://collinsmwiti.github.io/flashsite.github.io/
